@@ -8,7 +8,7 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "08a35cb89daaf7e7f9f97b2fb549ce2f")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5775731292:AAFZIznwzhvQs2s53iyqXl8NsIWWqZVe6cE")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
-    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "")
+    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "AQAEN2IM61MWaK48uorA4jB4KQeihSswiLtbujU0PO9L-Cu3N3PQsYfrsdvzfmtLLB3_YC8akVb9NI2L3v1lSPaYFSY7bRhY3-MVUkALIIIVReRwkPEM4UTtMTDUq2eTOPzCf3X5XhQsfy8IHceVzN0-TiS9YUiMu8HPNcH-SkoN-ltWjzBs8JqJCmzI8OyxcyiEXWbjm2wJEdHA-82Qgr8xzjX3CXrwoolr-aM2zWBtcYDQYDhADDOWltaCvdFOwegJ25TP9-LOOE4X4PHrned07Tvm5cuTfuh6IXZLdsJidEG71dGUZlPs-0hAK3Cu4a79YfVMnjLaNjgtGje0NBJ0cJgk3QA")
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -1001831635652))
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Sserials_search_bot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "1158419686"))
