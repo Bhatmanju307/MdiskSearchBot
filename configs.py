@@ -8,7 +8,7 @@ class Config(object):
     API_HASH = os.environ.get("API_HASH", "")
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
-    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "AQAEN2IM61MWaK48uorA4jB4KQeihSswiLtbujU0PO9L-Cu3N3PQsYfrsdvzfmtLLB3_YC8a")
+    USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "AQASswiLtbujU0PO9L-Cu3N3PQsYfrsdvzfmtLLB3_YC8a")
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -1001831635652))
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", "1158419686"))
